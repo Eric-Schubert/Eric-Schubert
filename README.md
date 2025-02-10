@@ -56,10 +56,10 @@
     </div>
     <div style="display: inline-block; width: 30%; vertical-align: top; text-align: center; margin: 0 1%;">
       <h3>🛠️ Skills</h3>
-      <p><strong style="color: #bb9af7;">Languages</strong><br/>TypeScript, Python, Go, Rust</p>
-      <p><strong style="color: #7dcfff;">Cloud Platforms</strong><br/>AWS, Azure, GCP, Kubernetes</p>
-      <p><strong style="color: #9ece6a;">Tools</strong><br/>Terraform, Docker, Git, Jenkins</p>
-      <p><strong style="color: #f7768e;">Frameworks</strong><br/>React, Node.js, FastAPI, Actix</p>
+      <p><strong style="color: #bb9af7;">Languages</strong><br/>TypeScript, Python</p>
+      <p><strong style="color: #7dcfff;">Cloud Platforms</strong><br/>Azure, GCP</p>
+      <p><strong style="color: #9ece6a;">Tools</strong><br/>Docker, Git, Ansible</p>
+      <p><strong style="color: #f7768e;">Frameworks</strong><br/>React, Node.js</p>
     </div>
   </div>
 </div>
