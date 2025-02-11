@@ -14,13 +14,13 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=azure,gcp,terraform,docker,kubernetes,ansible&theme=dark" alt="Infrastructure & Cloud" /><br/>
-  <sub><sup>Infrastructure & Cloud</sup></sub>
+  <h3>Infrastructure & Cloud</h3>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=ts,python,react,nodejs,graphql,nextjs&theme=dark" alt="Development" /><br/>
-  <sub><sup>Development</sup></sub>
+  <h3>Development</h3>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,redis,postgres,mongodb&theme=dark" alt="Tools & Databases" /><br/>
-  <sub><sup>Tools & Databases</sup></sub>
+  <h3>Tools & Databases</h3>
 </div>
 
 <div align="center">
